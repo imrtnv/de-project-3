@@ -1,7 +1,17 @@
 # Проект 3
 
 ### Описание
-Репозиторий предназначен для сдачи проекта №3. 
+Задача доработать пайплайн с учетом новых вводных
+1) Учесть при обновлении добавление нового поля status и возвратных товаров
+2) Разработать новую витрину mart.f_customer_retention 
+ - weekley - номер недели
+ - monthly - 
+ - new_customers_count - Кол-во новых пользователей
+ - returning_customers_count - Кол-во повторных пользователей
+ - refunded_customer_count
+ - new_customers_revenue
+ - returning_customers_revenue
+ - customers_refunded
 
 ### Как работать с репозиторием
 1. В вашем GitHub-аккаунте автоматически создастся репозиторий 
